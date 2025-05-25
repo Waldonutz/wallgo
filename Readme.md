@@ -146,3 +146,4 @@ This project is licensed under the GNU GENERAL PUBLIC LICENSE - see the LICENSE 
 
 - Inspired by classic abstract strategy games
 - Developed as a programming exercise
+- Made almost 100% with Amazon Q 
