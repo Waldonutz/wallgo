@@ -1,0 +1,3 @@
+([('WallGo',
+   '/Users/awallis/WORK/Q-WallGo/WallGo_Build/dist/mac/WallGo',
+   'EXECUTABLE')],)
