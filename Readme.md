@@ -140,7 +140,7 @@ You can create a standalone executable using PyInstaller:
 
 ## License
 
-This project is licensed under the MIT License - see the LICENSE file for details.
+This project is licensed under the GNU GENERAL PUBLIC LICENSE - see the LICENSE file for details.
 
 ## Acknowledgments
 
